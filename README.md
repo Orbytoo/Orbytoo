@@ -1,7 +1,6 @@
-**print("Hello, World!")**
-![octo (1)](https://user-images.githubusercontent.com/104036619/164893455-88137fcd-0cfc-4927-b518-0d8c94d8d87e.gif) **Orbytoo, desenvolvedor Python.** 🌱 
+![octo (1)](https://user-images.githubusercontent.com/104036619/164893455-88137fcd-0cfc-4927-b518-0d8c94d8d87e.gif) **Orbytoo, estudando Python.** 🌱 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ---
 **🚀 habilidades especiais:**
 
